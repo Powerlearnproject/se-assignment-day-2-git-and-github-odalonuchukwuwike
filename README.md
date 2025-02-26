@@ -31,6 +31,7 @@ to merge the branch into the main project use the command "git merge 'Branch nam
 ### forking is more of copying or importing someone elses project into your repository. while cloning is used within your Git and GitHub repository. forking is useful when importing someone elses project repository into your repository.
 
 ## Examine the importance of issues and project boards on GitHub. How can they be used to track bugs, manage tasks, and improve project organization? Provide examples of how these tools can enhance collaborative efforts.
-### 
+### GitHub has tools for debugging and hence is more 
 
 ## Reflect on common challenges and best practices associated with using GitHub for version control. What are some common pitfalls new users might encounter, and what strategies can be employed to overcome them and ensure smooth collaboration?
+### It is internet based and requires steady internet connections, best practices includes using clear and descriptive commit messages and good internet connection.
