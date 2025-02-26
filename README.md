@@ -25,9 +25,12 @@ to move into the branch created use the command "git checkout 'Branch name' "
 to merge the branch into the main project use the command "git merge 'Branch name' "
 
 ## Explore the role of pull requests in the GitHub workflow. How do they facilitate code review and collaboration, and what are the typical steps involved in creating and merging a pull request?
+### 
 
 ## Discuss the concept of "forking" a repository on GitHub. How does forking differ from cloning, and what are some scenarios where forking would be particularly useful?
+### forking is more of copying or importing someone elses project into your repository. while cloning is used within your Git and GitHub repository. forking is useful when importing someone elses project repository into your repository.
 
 ## Examine the importance of issues and project boards on GitHub. How can they be used to track bugs, manage tasks, and improve project organization? Provide examples of how these tools can enhance collaborative efforts.
+### 
 
 ## Reflect on common challenges and best practices associated with using GitHub for version control. What are some common pitfalls new users might encounter, and what strategies can be employed to overcome them and ensure smooth collaboration?
