@@ -25,7 +25,9 @@ to move into the branch created use the command "git checkout 'Branch name' "
 to merge the branch into the main project use the command "git merge 'Branch name' "
 
 ## Explore the role of pull requests in the GitHub workflow. How do they facilitate code review and collaboration, and what are the typical steps involved in creating and merging a pull request?
-### 
+### the pull reguest is used for importing your project from your GitHub repository to your local repo, this enables you to review codes, collaborate with other programmers on the same code by pushing and merging back to GitHub.
+to pull use the command "git pull 'url address of the GitHub repo' "
+to merge use the command "git push origin main/master"
 
 ## Discuss the concept of "forking" a repository on GitHub. How does forking differ from cloning, and what are some scenarios where forking would be particularly useful?
 ### forking is more of copying or importing someone elses project into your repository. while cloning is used within your Git and GitHub repository. forking is useful when importing someone elses project repository into your repository.
